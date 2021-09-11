@@ -1,0 +1,14 @@
+{
+  "results_path": "results",
+  "device": "cpu",
+  "learningrate": 1e-3,
+  "weight_decay": 1e-5,
+  "n_updates": 6e4,
+  "network_config": {
+    "n_hidden_layers": 3,
+    "n_in_channels": 2,
+    "n_kernels": 16,
+    "kernel_size": 5
+  },
+  "train": 0
+}
